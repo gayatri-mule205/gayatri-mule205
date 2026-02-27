@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatri-mule205" alt="gayatri-mule205" /></a> </p>
 
-- 🔭 I’m currently working on **Responsive portfolio website**
-
 - 🌱 I’m currently learning **Javascript ,Git,Django,reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gayatri-mule205/gayatri-mule205/](https://github.com/gayatri-mule205/gayatri-mule205/)
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gayatri mule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri mule" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gayatri-mule-a84296293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gayatri-mule-a84296293" height="30" width="40" /></a>
 <a href="https://instagram.com/_gayatri_ajit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gayatri_ajit_" height="30" width="40" /></a>
 </p>
 
